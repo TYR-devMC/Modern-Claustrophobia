@@ -1,0 +1,27 @@
+{
+	"property": "scavenge_world:has_dimension",
+	"dimensions": [
+		"minecraft:overworld"
+	],
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_world.has_dimension.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:has_dimension"
+Tests if the clicked position is at a specific World
+
+"dimensions": Dimension Ids that should be tested against
+	"dimension": The DimensionID that should be used
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.has_dimension.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[scavenge_world:has_dimension]

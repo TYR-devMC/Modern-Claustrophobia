@@ -1,0 +1,7 @@
+{
+	"processors": "scavenge_world:blackstone"
+}
+
+"scavenge_world:blackstone"
+Replaces stone With blackstone
+

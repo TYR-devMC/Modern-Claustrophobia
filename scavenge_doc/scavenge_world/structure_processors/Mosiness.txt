@@ -1,0 +1,9 @@
+{
+	"processors": "scavenge_world:mosiness",
+	"chance": 1.0
+}
+
+"scavenge_world:mosiness"
+Randomly Applies moss to stone blocks
+
+"chance": How likely moss is added to stone Blocks

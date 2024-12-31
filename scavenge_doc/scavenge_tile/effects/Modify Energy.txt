@@ -1,0 +1,25 @@
+{
+	"property": "scavenge_tile:modify_energy",
+	"override": "Default",
+	"operation": {
+		"operation": "scavenge:add",
+		"value": 1
+	},
+	"jei_visible": false,
+	"jei_description": "scavenge_tile.modify_energy.desc",
+	"jei_simple": true
+}
+
+"scavenge_tile:modify_energy"
+Modifies the Forge Energy of a TileEntity
+
+"override": Overrides the Side the block was clicked on to make sure that the desired effect was happening (Valid Values: [down, up, north, south, west, east])
+"operation": The Operation that should be applied to the Energy. It will auto consume/add to the tile based on the difference
+	"operation": The Operation that should be executed
+	"value": Value that should be added
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_tile.modify_energy.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

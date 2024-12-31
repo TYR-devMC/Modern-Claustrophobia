@@ -1,0 +1,10 @@
+{
+  "id": "tiny_item",
+  "controllerIds": "mm:machine_controller",
+  "name": "Tiny Item Port",
+  "type": "mm:item",
+  "config": {
+    "rows": 1,
+    "columns": 1
+  }
+}

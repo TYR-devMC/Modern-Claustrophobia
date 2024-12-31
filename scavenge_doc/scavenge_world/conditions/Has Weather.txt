@@ -1,0 +1,26 @@
+{
+	"property": "scavenge_world:has_weather",
+	"weather": "none",
+	"check_position": true,
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_world.has_weather.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:has_weather"
+Tests if the weather is the desired type
+
+"weather": The desired weather type (Valid Values: [none, raining, snowing, thundering])
+"check_position": If the weather should be tested at the actual position (Optional, Default: true)
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.has_weather.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[scavenge_world:has_weather]

@@ -1,0 +1,1127 @@
+[16:05:39] [main/INFO]: ModLauncher running: args [--username, TYR_dev, --version, forge-43.4.0, --gameDir, C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia, --assetsDir, C:\Users\adamp\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, a3076a6a9cd444de9e75e6dd0ef21ed7, --accessToken, ????????, --clientId, ZmNlNzZhZmYtNDMyZS00NGI1LWE0NDctNjZjMDFhMGMxZjc1, --xuid, 2535460865122101, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.4.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[16:05:39] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[16:05:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/adamp/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[16:05:40] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file architectury-6.6.92-forge.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file BonsaiTrees3-1.19.2-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file cloth-config-8.3.134-forge.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file cofh_core-1.19.2-10.3.1.48.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file compactmachines-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.6.4.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file CustomMachinery-forge-1.19.2-0.9.22.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file elevatorid-1.19.2-1.8.10.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ExNihiloSequentia-1.19.2-4.2.0.64.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ftb-library-forge-1902.4.1-build.236.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ftb-quests-forge-1902.5.9-build.399.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ftb-teams-forge-1902.2.14-build.123.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file global_packs-forge-1.19.2-1.14.5_forge.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ImmersiveEngineering-1.19.2-9.2.4-170.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file item-filters-forge-1902.2.9-build.51.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file jei-1.19.2-forge-11.8.1.1034.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file kubejs-forge-1902.6.2-build.73.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file kubejs-thermal-1902.1.9-build.16.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file libnonymous-1.19.2-2.2.0.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file MasterfulMachinery-3-1.19.2-0.2.2.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file NuclearCraft-1.19.2-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file probejs-5.3.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file rhino-forge-1902.2.3-build.284.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file Scavenge-1.19.2-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_cultivation-1.19.2-10.3.0.19.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_dynamics-1.19.2-10.3.0.20.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_expansion-1.19.2-10.3.1.25.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_foundation-1.19.2-10.3.1.57.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_innovation-1.19.2-10.3.0.20.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file thermal_integration-1.19.2-10.3.0.19.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/INFO]: Found mod file ThermalExtra-3.0.5-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\mods}
+[16:05:40] [main/WARN]: Mod file C:\Users\adamp\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.4.0\fmlcore-1.19.2-43.4.0.jar is missing mods.toml file
+[16:05:40] [main/WARN]: Mod file C:\Users\adamp\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.4.0\javafmllanguage-1.19.2-43.4.0.jar is missing mods.toml file
+[16:05:40] [main/WARN]: Mod file C:\Users\adamp\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.4.0\lowcodelanguage-1.19.2-43.4.0.jar is missing mods.toml file
+[16:05:40] [main/WARN]: Mod file C:\Users\adamp\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.4.0\mclanguage-1.19.2-43.4.0.jar is missing mods.toml file
+[16:05:40] [main/INFO]: Found mod file fmlcore-1.19.2-43.4.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found mod file mclanguage-1.19.2-43.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found mod file forge-1.19.2-43.4.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5f78de22
+[16:05:40] [main/INFO]: Found 4 dependencies adding them to mods collection
+[16:05:40] [main/INFO]: Found mod file saecularia-caudices-forge-1.0.16.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b94ccbc
+[16:05:40] [main/INFO]: Found mod file mixinextras-forge-0.2.0-rc.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b94ccbc
+[16:05:40] [main/INFO]: Found mod file thermal_core-1.19.2-10.3.0.9.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b94ccbc
+[16:05:40] [main/INFO]: Found mod file MixinExtras-0.2.0-rc.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5b94ccbc
+[16:05:41] [main/INFO]: Compatibility level set to JAVA_17
+[16:05:41] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.4.0, --gameDir, C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia, --assetsDir, C:\Users\adamp\curseforge\minecraft\Install\assets, --uuid, a3076a6a9cd444de9e75e6dd0ef21ed7, --username, TYR_dev, --assetIndex, 1.19, --accessToken, ????????, --clientId, ZmNlNzZhZmYtNDMyZS00NGI1LWE0NDctNjZjMDFhMGMxZjc1, --xuid, 2535460865122101, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[16:05:41] [main/WARN]: Reference map 'probejs-forge-refmap.json' for probejs.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:05:41] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[16:05:41] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[16:05:41] [main/WARN]: Error loading class: mekanism/common/lib/radiation/RadiationManager (java.lang.ClassNotFoundException: mekanism.common.lib.radiation.RadiationManager)
+[16:05:41] [main/WARN]: @Mixin target mekanism.common.lib.radiation.RadiationManager was not found nuclearcraft.mixins.json:MekRadiationManager
+[16:05:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.2).
+[16:05:44] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[16:05:45] [Render thread/WARN]: Assets URL 'union:/C:/Users/adamp/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23219!/assets/.mcassetsroot' uses unexpected schema
+[16:05:45] [Render thread/WARN]: Assets URL 'union:/C:/Users/adamp/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23219!/data/.mcassetsroot' uses unexpected schema
+[16:05:45] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:05:45] [Render thread/INFO]: Setting user: TYR_dev
+[16:05:45] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[16:05:45] [Render thread/INFO]: Loaded client.properties
+[16:05:46] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source kubejs
+[16:05:46] [modloading-worker-0/INFO]: Loaded common.properties
+[16:05:46] [modloading-worker-0/INFO]: Loaded dev.properties
+[16:05:46] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source custommachinery
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_message_history
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[16:05:46] [modloading-worker-0/INFO]: Forge mod loading, version 43.4.0, for MC 1.19.2 with MCP 20220805.130853
+[16:05:46] [modloading-worker-0/INFO]: MinecraftForge v43.4.0 Initialized
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source kubejs_thermal
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source nuclearcraft
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_quests
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_team_data
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_task_progress
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:claim_reward_response
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_other_team_data
+[16:05:46] [modloading-worker-0/ERROR]: Failed to init KubeJS plugin igentuman.nc.compat.kubejs.NuclearCraftKubeJSPlugin from source nuclearcraft: java.lang.reflect.InvocationTargetException
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source mm
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source probejs
+[16:05:46] [modloading-worker-0/INFO]: Found plugin source exnihilosequentia
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_completion_toast
+[16:05:46] [modloading-worker-0/INFO]: Done in 292.1 ms
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_reward_toast
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:force_save
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_team_data
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started_reset
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed_reset
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_lock
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:reset_reward
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:team_data_changed
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_object
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_object_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:delete_object_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:edit_object_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_quest_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[16:05:46] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:sync_structures_request
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_structures_response
+[16:05:46] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:open_quest_book
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for lithium!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for platinum!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for thorium!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for tin!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for magnesium!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for silver!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for cobalt!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for uranium!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for zinc!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for boron!
+[16:05:46] [modloading-worker-0/ERROR]: Error while loading ore config for lead!
+[16:05:46] [modloading-worker-0/INFO]: Mod [FTB XMod Compat] not detected. Install it if you want FTB Quests integration with KubeJS, JEI/REI and/or Game Stages
+[16:05:46] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[16:05:46] [modloading-worker-0/INFO]: Rhino properties loaded.
+[16:05:46] [modloading-worker-0/INFO]: Loading mappings for 1.19.2
+[16:05:46] [modloading-worker-0/INFO]: Done in 0.061 s
+[16:05:47] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[16:05:47] [modloading-worker-0/INFO]: Loaded script startup_scripts:example.js in 0.053 s
+[16:05:47] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.284 s
+[16:05:47] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
+[16:05:47] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.0 s
+[16:05:47] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.007 s
+[16:05:47] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[16:05:47] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
+[16:05:47] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for magnesium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for platinum!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for platinum!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for platinum!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for platinum!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lead!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lead!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lead!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lead!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for thorium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for tin!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for tin!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for tin!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for tin!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for cobalt!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for silver!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for uranium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for zinc!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for zinc!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for zinc!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for zinc!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for boron!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:47] [Render thread/ERROR]: Error while loading ore config for lithium!
+[16:05:48] [Render thread/INFO]: Starting provider: LootTables
+[16:05:48] [Render thread/INFO]: LootTables finished after 38 ms
+[16:05:48] [Render thread/INFO]: Starting provider: Languages: en_us
+[16:05:48] [Render thread/INFO]: Languages: en_us finished after 4 ms
+[16:05:48] [Render thread/INFO]: Starting provider: Tags for minecraft:block
+[16:05:48] [Render thread/INFO]: Tags for minecraft:block finished after 12 ms
+[16:05:48] [Render thread/INFO]: Starting provider: Block States: mm
+[16:05:48] [Render thread/INFO]: Block States: mm finished after 58 ms
+[16:05:48] [Render thread/INFO]: Starting provider: Item Models: mm
+[16:05:48] [Render thread/INFO]: Item Models: mm finished after 15 ms
+[16:05:48] [Render thread/INFO]: All providers took: 130 ms
+[16:05:48] [Render thread/INFO]: Caching: total files: 22, old count: 22, new count: 23, removed stale: 0, written: 0
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:minecraft ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:minecraft took 23.90 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: immersiveengineering:main ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: immersiveengineering:main took 4.300 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:debug ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:debug took 3.900 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:gui ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:gui took 3.500 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:forge_gui ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:forge_gui took 5.600 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: curios:curios ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: curios:curios took 4.600 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: nuclearcraft:jei_plugin ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: nuclearcraft:jei_plugin took 5.700 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: mm:jei_plugin ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: mm:jei_plugin took 5.100 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: compactmachines:main ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: compactmachines:main took 6.200 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: bonsaitrees3:jei ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: bonsaitrees3:jei took 4.800 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: scavenge:core ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: scavenge:core took 4.200 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: kubejs:jei ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: kubejs:jei took 5.100 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: ftblibrary:jei ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: ftblibrary:jei took 9.700 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: custommachinery:jei_plugin ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: custommachinery:jei_plugin took 5.800 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: cofh_core:default ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: cofh_core:default took 4.900 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: thermal:core ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: thermal:core took 4.700 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: thermal:expansion ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: thermal:expansion took 5.000 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:exnihilosequentia ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:exnihilosequentia took 4.800 ?s
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:internal ...
+[16:05:48] [Render thread/INFO]: Sending ConfigManager: jei:internal took 4.800 ?s
+[16:05:49] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, mm_resources, KubeJS Resource Pack [assets]
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_machines
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_upgrades
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_container
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_machine_status
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:refresh_machine_tile
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:loot_tables
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:open_file
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_machine_appearance
+[16:05:49] [Worker-Main-7/INFO]: Registering S2C receiver with id custommachinery:update_machine_gui_elements
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:add_machine
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:remove_machine
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:element_clicked
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:change_side_mode
+[16:05:49] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:button_gui_element
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:place_structure
+[16:05:49] [Worker-Main-7/INFO]: Registering C2S receiver with id custommachinery:set_filter_slot_item
+[16:05:49] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.19/changelog.json
+[16:05:49] [Forge Version Check/INFO]: [immersiveengineering] Found status: BETA Current: 1.19.2-9.2.4-170 Target: null
+[16:05:49] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.19.2
+[16:05:49] [Render thread/INFO]: Found 19 tree models.
+[16:05:49] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 10.0+7 Target: 10.0+7
+[16:05:49] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16:05:50] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 43.4.0 Target: null
+[16:05:50] [Forge Version Check/INFO]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
+[16:05:50] [Forge Version Check/INFO]: [cofh_core] Found status: AHEAD Current: 10.3.1 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal] Starting version check at https://raw.github.com/cofh/version/main/thermal/update.json
+[16:05:50] [Forge Version Check/INFO]: [thermal] Found status: UP_TO_DATE Current: 10.3.0 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal_innovation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_innovation.json
+[16:05:50] [Forge Version Check/INFO]: [thermal_innovation] Found status: UP_TO_DATE Current: 10.3.0 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal_cultivation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_cultivation.json
+[16:05:50] [Forge Version Check/INFO]: [thermal_cultivation] Found status: UP_TO_DATE Current: 10.3.0 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal_foundation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_foundation.json
+[16:05:50] [Forge Version Check/INFO]: [thermal_foundation] Found status: AHEAD Current: 10.3.1 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal_expansion] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_expansion.json
+[16:05:50] [Forge Version Check/INFO]: [thermal_expansion] Found status: AHEAD Current: 10.3.1 Target: null
+[16:05:50] [Forge Version Check/INFO]: [thermal_integration] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_integration.json
+[16:05:51] [Forge Version Check/INFO]: [thermal_integration] Found status: UP_TO_DATE Current: 10.3.0 Target: null
+[16:05:51] [Forge Version Check/INFO]: [thermal_dynamics] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_dynamics.json
+[16:05:51] [Forge Version Check/INFO]: [thermal_dynamics] Found status: OUTDATED Current: 10.3.0 Target: 10.3.1
+[16:05:52] [Worker-Main-6/WARN]: Exception loading blockstate definition: 'compactmachines:blockstates/machine_void_air.json' missing model for variant: 'compactmachines:machine_void_air#'
+[16:05:53] [Worker-Main-6/WARN]: Unable to resolve texture reference: #missing in nuclearcraft:block/glowing_mushroom
+[16:05:53] [Worker-Main-6/WARN]: Unable to resolve texture reference: #missing in nuclearcraft:item/glowing_mushroom
+[16:05:53] [Worker-Main-6/INFO]: Stitching Revolver Textures!
+[16:05:53] [Worker-Main-1/ERROR]: Using missing texture, file thermal:textures/block/fluids/refined_sunflower_oil_flow.png not found
+[16:05:53] [Worker-Main-11/ERROR]: Using missing texture, file thermal:textures/block/fluids/shellite_flow.png not found
+[16:05:53] [Worker-Main-3/ERROR]: Using missing texture, file thermal:textures/block/fluids/dragonsteel_flow.png not found
+[16:05:53] [Worker-Main-5/ERROR]: Using missing texture, file immersiveengineering:textures/revolvers/revolver_einhorn.png not found
+[16:05:53] [Worker-Main-10/ERROR]: Using missing texture, file thermal:textures/block/fluids/twinite_flow.png not found
+[16:05:53] [Worker-Main-7/ERROR]: Using missing texture, file thermal:textures/block/fluids/soul_infused_flow.png not found
+[16:05:53] [Worker-Main-10/ERROR]: Using missing texture, file thermal:textures/block/fluids/crystallized_sunflower_oil_flow.png not found
+[16:05:53] [Worker-Main-11/ERROR]: Using missing texture, file thermal:textures/block/fluids/sunflower_oil_flow.png not found
+[16:05:55] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[16:05:55] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[16:05:55] [Render thread/WARN]: Missing sound for event: nuclearcraft:tile.fusion_switch
+[16:05:55] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on G³oœniki (Realtek(R) Audio)
+[16:05:55] [Render thread/INFO]: Sound engine started
+[16:05:55] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:05:55] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[16:05:55] [Render thread/WARN]: Shader cofh_core:particle_over could not find sampler named Sampler2 in the specified shader program.
+[16:05:55] [Render thread/WARN]: Shader cofh_core:particle_add could not find sampler named Sampler2 in the specified shader program.
+[16:05:55] [Render thread/WARN]: Shader cofh_core:particle_screen could not find sampler named Sampler2 in the specified shader program.
+[16:05:55] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:05:55] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[16:05:55] [Render thread/INFO]: Found 19 tree models.
+[16:06:20] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[16:06:20] [Render thread/INFO]: Registry minecraft:block: Found a missing id from the world mm:my_controller
+[16:06:21] [Render thread/INFO]: Loaded script server_scripts:example.js in 0.005 s
+[16:06:21] [Render thread/INFO]: Loaded 1/1 KubeJS server scripts in 0.009 s
+[16:06:21] [Render thread/INFO]: Scripts loaded
+[16:06:21] [Render thread/INFO]: Initializing recipe event...
+[16:06:21] [Worker-Main-2/ERROR]: Couldn't load tag [nuclearcraft:spent_nuclear_waste (from NuclearCraft-1.19.2-1.0.5.jar), nuclearcraft:spent_nuclear_waste_flowing (from NuclearCraft-1.19.2-1.0.5.jar)] as it is missing following references: nuclearcraft:spent_nuclear_waste (from NuclearCraft-1.19.2-1.0.5.jar), 
+	nuclearcraft:spent_nuclear_waste_flowing (from NuclearCraft-1.19.2-1.0.5.jar)
+[16:06:21] [Worker-Main-2/ERROR]: Couldn't load tag [nuclearcraft:nuclear_waste (from NuclearCraft-1.19.2-1.0.5.jar), nuclearcraft:nuclear_waste_flowing (from NuclearCraft-1.19.2-1.0.5.jar)] as it is missing following references: nuclearcraft:nuclear_waste (from NuclearCraft-1.19.2-1.0.5.jar), 
+	nuclearcraft:nuclear_waste_flowing (from NuclearCraft-1.19.2-1.0.5.jar)
+[16:06:21] [Worker-Main-2/ERROR]: Couldn't load tag [nuclearcraft:fissile_fuel (from NuclearCraft-1.19.2-1.0.5.jar), nuclearcraft:fissile_fuel_flowing (from NuclearCraft-1.19.2-1.0.5.jar)] as it is missing following references: nuclearcraft:fissile_fuel (from NuclearCraft-1.19.2-1.0.5.jar), 
+	nuclearcraft:fissile_fuel_flowing (from NuclearCraft-1.19.2-1.0.5.jar)
+[16:06:22] [Worker-Main-8/INFO]: [minecraft:block] Found 381 tags, added 2 objects, removed 0 objects
+[16:06:22] [Render thread/INFO]: Processing recipes...
+[16:06:22] [Render thread/INFO]: Found 6502 recipes in 59.32 ms
+[16:06:22] [Render thread/INFO]: Posted recipe events in 16.15 ms
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output fluid for recipe: nuclearcraft:centrifuge/d_f_thorium_tbu
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse input for recipe: nuclearcraft:assembler/fuel_mixed_mix_239-dusts_graphite-ingots_pyrolitic_carbon-ingots_silicon_carbide
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:centrifuge/d_f_thorium_tbu[nuclearcraft:centrifuge]: {"type":"nuclearcraft:centrifuge","inputFluids":[{"amount":1296,"fluid":"nuclearcraft:depleted_fuel_thorium_tbu"}],"outputFluids":[{"amount":144,"tag":"forge:uranium/233"},{"amount":720,"tag":"forge:uranium/238"},{"amount":144,"tag":"forge:neptunium/236"},{"amount":144,"tag":"forge:neptunium/237"},{"amount":144,"tag":"forge:strontium_90"},{"amount":144,"tag":"forge:caesium_137"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":0.5}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:assembler/fuel_mixed_mix_239-dusts_graphite-ingots_pyrolitic_carbon-ingots_silicon_carbide[nuclearcraft:assembler]: {"type":"nuclearcraft:assembler","input":[{"count":9,"item":"nuclearcraft:fuel_mixed_mix_239"},{"tag":"forge:dusts/graphite"},{"tag":"forge:ingots/pyrolitic_carbon"},{"tag":"forge:ingots/silicon_carbide"}],"output":[{"count":9,"item":"nuclearcraft:fuel_mixed_mix_239_tr"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/ERROR]: Error parsing output itemstack for recipe: nuclearcraft:crystallizer/polonium
+[16:06:22] [KubeJS Recipe Event Worker 0/ERROR]: Error parsing output itemstack for recipe: nuclearcraft:fuel_reprocessor/ingots_cyanite
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output for recipe: nuclearcraft:ingot_former/d_f_thorium_tbu_za
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output for recipe: nuclearcraft:ingot_former/boron_11
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:ingot_former/d_f_thorium_tbu_za[nuclearcraft:ingot_former]: {"type":"nuclearcraft:ingot_former","inputFluids":[{"amount":144,"fluid":"nuclearcraft:depleted_fuel_thorium_tbu_za"}],"output":[{"item":"nuclearcraft:depleted_fuel_thorium_tbu_za"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:ingot_former/boron_11[nuclearcraft:ingot_former]: {"type":"nuclearcraft:ingot_former","inputFluids":[{"amount":144,"fluid":"nuclearcraft:boron_11"}],"output":[{"item":"nuclearcraft:boron_11"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output fluid for recipe: nuclearcraft:melter/ores_silver
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:melter/ores_silver[nuclearcraft:melter]: {"type":"nuclearcraft:melter","input":[{"tag":"forge:ores/silver"}],"outputFluids":[{"amount":288,"tag":"forge:silver"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse input fluid for recipe: nuclearcraft:ingot_former/d_f_thorium_tbu
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:ingot_former/d_f_thorium_tbu[nuclearcraft:ingot_former]: {"type":"nuclearcraft:ingot_former","inputFluids":[{"amount":144,"fluid":"nuclearcraft:depleted_fuel_thorium_tbu"}],"output":[{"item":"nuclearcraft:depleted_fuel_thorium_tbu"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output for recipe: nuclearcraft:pressurizer/ingots_magnesium
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:pressurizer/ingots_magnesium[nuclearcraft:pressurizer]: {"type":"nuclearcraft:pressurizer","input":[{"tag":"forge:ingots/magnesium"}],"output":[{"item":"nuclearcraft:magnesium_plate"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse output for recipe: nuclearcraft:ingot_former/d_f_neptunium_len_236_za
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:ingot_former/d_f_neptunium_len_236_za[nuclearcraft:ingot_former]: {"type":"nuclearcraft:ingot_former","inputFluids":[{"amount":144,"fluid":"nuclearcraft:depleted_fuel_neptunium_len_236_za"}],"output":[{"item":"nuclearcraft:depleted_fuel_neptunium_len_236_za"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Unable to parse input for recipe: nuclearcraft:melter/raw_materials_tough_alloy
+[16:06:22] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe nuclearcraft:melter/raw_materials_tough_alloy[nuclearcraft:melter]: {"type":"nuclearcraft:melter","input":[{"tag":"forge:raw_materials/tough_alloy"}],"outputFluids":[{"amount":216,"tag":"forge:tough_alloy"}],"powerModifier":1.0,"radiation":1.0,"timeModifier":1.0}: java.lang.NullPointerException: Recipe name cannot be null.
+[16:06:22] [Render thread/INFO]: Added 17 recipes, removed 8 recipes, modified 0 recipes, with 9 failed recipes in 34.10 ms
+[16:06:23] [Render thread/INFO]: Loaded 2705 advancements
+[16:06:23] [Render thread/INFO]: Collecting Custom Machine upgrades from JS scripts.
+[16:06:23] [Render thread/INFO]: Successfully added 0 Custom Machine upgrades
+[16:06:23] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/structure_set] are present in data pack: nuclearcraft:wasteland_dimension_structure_set
+[16:06:23] [Server thread/INFO]: Starting integrated minecraft server version 1.19.2
+[16:06:23] [Server thread/INFO]: Generating keypair
+[16:06:23] [Server thread/INFO]: loaded team data: 1 known players, 1 teams total
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:tritium is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:high_pressure_steam is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:boron/10_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/232_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:boron/10_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/232_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:hard_carbon is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:curium/247_ox is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:magnesium is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:silver is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:manganese_dioxide is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:magnesium_diboride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:manganese_dioxide is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/232_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/232_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:curium/247_ox is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/230_ox is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:neptunium/237_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:plutonium/241_za is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:americium/241_ox is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium/230_ox is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:tin_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:zinc_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:thorium_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:platinum_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:zinc_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:lead_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:redstone is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:uranium_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:technical_water is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:liquid_nitrogen is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:magnesium_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:americium/242 is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:aluminum_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:uranium_clean_slurry is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:nuclear_waste is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:californium/250 is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:fissile_fuel is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:americium/242 is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:hydrogen_chloride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:diborane is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:fluoromethane is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:potassium_hydroxide_solution is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:hydrated_gelatin is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:oxygen_difluoride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:oxygen_difluoride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:diborane is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:oxygen_difluoride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:oxygen_difluoride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:oxygen_difluoride is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:sodium_hydroxide_solution is empty!
+[16:06:23] [Server thread/ERROR]: Fluid Tag forge:chlorine is empty!
+[16:06:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:06:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:25] [Render thread/INFO]: Preparing spawn area: 53%
+[16:06:25] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[16:06:25] [Render thread/INFO]: Time elapsed: 2060 ms
+[16:06:25] [Server thread/INFO]: Updated soil compatibility
+[16:06:25] [Server thread/INFO]: Updated additional upgrade items. Found 0.
+[16:06:25] [Server thread/INFO]: Loading quests from C:\Users\adamp\curseforge\minecraft\Instances\Klaustrofobia\config\ftbquests\quests
+[16:06:25] [Server thread/INFO]: Loaded 2 chapter groups, 3 chapters, 29 quests, 0 reward tables
+[16:06:25] [Server thread/INFO]: Couldn't fully analyze 1 hazmat_mask, missing knowledge for {1 leather_helmet=1.0}
+[16:06:25] [Server thread/INFO]: Couldn't fully analyze 1 hazmat_boots, missing knowledge for {1 leather_boots=1.0}
+[16:06:25] [Server thread/INFO]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[16:06:25] [Server thread/INFO]: Finished recipe profiler for Arc Recycling, took 29 milliseconds
+[16:06:26] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:06:26] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:06:26] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[16:06:27] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[16:06:27] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ae77b0a
+[16:06:27] [Server thread/INFO]: TYR_dev[local:E:81f7dad6] logged in with entity id 8 at (1031.5654310707287, 40.0, -1016.3000000119209)
+[16:06:27] [Server thread/INFO]: TYR_dev joined the game
+[16:06:27] [Netty Local Client IO #0/INFO]: Read 2723 bytes, 66 objects
+[16:06:27] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[16:06:27] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/dirt
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/grass_block
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/mycelium
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/crimson_nylium
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/moss_block
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/water_bucket
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/warped_nylium
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/nether_wart_block
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/sand
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/mud
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/lava_bucket
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/end_stone
+[16:06:28] [Render thread/INFO]: Loaded soil recipe: bonsaitrees3:soil/minecraft/netherrack
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/bubble_coral
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/fire_coral
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/brain_coral
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/birch
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/jungle_tree
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/huge_brown_mushroom
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/warped_fungus
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/flowering_azalea_tree
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/huge_red_mushroom
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/spruce
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/acacia
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/tube_coral
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/horn_coral
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/oak
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/chorus
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/dark_oak
+[16:06:28] [Render thread/INFO]: Loaded sapling recipe: bonsaitrees3:sapling/minecraft/crimson_fungus
+[16:06:28] [Render thread/INFO]: Updated soil compatibility
+[16:06:28] [Render thread/INFO]: Updated additional upgrade items. Found 0.
+[16:06:28] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[16:06:28] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[16:06:28] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[16:06:28] [Render thread/INFO]: Starting JEI...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 1.387 ms
+[16:06:28] [Render thread/INFO]: Registering item subtypes: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: immersiveengineering:main took 472.3 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:debug took 4.400 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:gui took 2.400 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:forge_gui took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: curios:curios took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: nuclearcraft:jei_plugin took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: mm:jei_plugin took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: compactmachines:main took 278.9 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: bonsaitrees3:jei took 2.900 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: scavenge:core took 2.200 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: kubejs:jei took 7.800 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: ftblibrary:jei took 2.400 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: custommachinery:jei_plugin took 17.00 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: cofh_core:default took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: thermal:core took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: thermal:expansion took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:exnihilosequentia took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering item subtypes: jei:internal took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 9.400 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: immersiveengineering:main took 3.600 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 582.7 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:gui took 2.900 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui took 2.200 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: curios:curios took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: nuclearcraft:jei_plugin took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: mm:jei_plugin took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: compactmachines:main took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: bonsaitrees3:jei took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: scavenge:core took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: kubejs:jei took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: ftblibrary:jei took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: custommachinery:jei_plugin took 1.400 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: cofh_core:default took 230.7 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: thermal:core took 2.200 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: thermal:expansion took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:exnihilosequentia took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:minecraft took 52.13 ms
+[16:06:28] [Render thread/INFO]: Registering ingredients: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: immersiveengineering:main took 3.500 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:debug took 14.60 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:gui took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:forge_gui took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: curios:curios took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: nuclearcraft:jei_plugin took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: mm:jei_plugin took 1.763 ms
+[16:06:28] [Render thread/INFO]: Registering ingredients: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: compactmachines:main took 2.500 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: bonsaitrees3:jei took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: scavenge:core took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: kubejs:jei took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: ftblibrary:jei took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: custommachinery:jei_plugin took 1.268 ms
+[16:06:28] [Render thread/INFO]: Registering ingredients: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: cofh_core:default took 4.400 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: thermal:core took 10.60 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: thermal:expansion took 3.200 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:exnihilosequentia took 2.400 ?s
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering ingredients: jei:internal took 2.400 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:minecraft took 8.750 ms
+[16:06:28] [Render thread/INFO]: Registering categories: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering categories: immersiveengineering:main took 5.014 ms
+[16:06:28] [Render thread/INFO]: Registering categories: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:debug took 6.700 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:gui took 2.500 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:forge_gui took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering categories: curios:curios took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering categories: nuclearcraft:jei_plugin took 3.006 ms
+[16:06:28] [Render thread/INFO]: Registering categories: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering categories: mm:jei_plugin took 952.9 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering categories: compactmachines:main took 2.500 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering categories: bonsaitrees3:jei took 799.8 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering categories: scavenge:core took 1.142 ms
+[16:06:28] [Render thread/INFO]: Registering categories: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering categories: kubejs:jei took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering categories: ftblibrary:jei took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering categories: custommachinery:jei_plugin took 17.63 ms
+[16:06:28] [Render thread/INFO]: Registering categories: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering categories: cofh_core:default took 3.300 ?s
+[16:06:28] [Render thread/INFO]: Registering categories: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering categories: thermal:core took 1.205 ms
+[16:06:28] [Render thread/INFO]: Registering categories: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering categories: thermal:expansion took 9.403 ms
+[16:06:28] [Render thread/INFO]: Registering categories: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:exnihilosequentia took 4.637 ms
+[16:06:28] [Render thread/INFO]: Registering categories: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering categories: jei:internal took 576.8 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 873.6 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: immersiveengineering:main took 2.600 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui took 1.300 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: curios:curios took 1.200 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: nuclearcraft:jei_plugin took 1.400 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: mm:jei_plugin took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: compactmachines:main took 2.600 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: bonsaitrees3:jei took 2.600 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: scavenge:core took 9.200 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: kubejs:jei took 3.100 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: ftblibrary:jei took 8.100 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: custommachinery:jei_plugin took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: cofh_core:default took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: thermal:core took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: thermal:expansion took 900.0 ns
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:exnihilosequentia took 1.200 ?s
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 731.3 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: immersiveengineering:main took 79.50 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 4.900 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui took 1.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: curios:curios took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: nuclearcraft:jei_plugin took 165.5 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: mm:jei_plugin took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: compactmachines:main took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: bonsaitrees3:jei took 43.40 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: scavenge:core took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: kubejs:jei took 3.800 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: ftblibrary:jei took 4.100 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: custommachinery:jei_plugin took 734.6 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: cofh_core:default took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: thermal:core took 28.60 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: thermal:expansion took 87.90 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:exnihilosequentia took 587.7 ?s
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 9.500 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: immersiveengineering:main took 2.100 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:debug took 4.600 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:gui took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: curios:curios took 3.100 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: nuclearcraft:jei_plugin took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: mm:jei_plugin took 2.800 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: compactmachines:main took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: bonsaitrees3:jei took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: scavenge:core took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: kubejs:jei took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: ftblibrary:jei took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: custommachinery:jei_plugin took 1.800 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: cofh_core:default took 3.000 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: thermal:core took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Added recipe manager plugin: class cofh.thermal.expansion.compat.jei.machine.PotionFluidRecipeManagerPlugin
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: thermal:expansion took 674.5 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:exnihilosequentia took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering advanced plugins: jei:internal took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Building recipe registry...
+[16:06:28] [Render thread/INFO]: Building recipe registry took 18.28 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:minecraft took 97.87 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Adding recipes to JEI!!
+[16:06:28] [Render thread/INFO]: Recipes for potions: minecraft:night_vision, minecraft:long_poison, minecraft:strong_poison, minecraft:leaping, minecraft:turtle_master, minecraft:water, minecraft:strong_turtle_master, minecraft:long_invisibility, minecraft:strong_regeneration, minecraft:slow_falling, minecraft:strong_healing, minecraft:long_leaping, minecraft:strong_harming, minecraft:strong_strength, minecraft:long_weakness, minecraft:strength, minecraft:strong_slowness, minecraft:long_turtle_master, minecraft:water_breathing, minecraft:poison, minecraft:long_slowness, minecraft:long_fire_resistance, minecraft:strong_swiftness, minecraft:swiftness, minecraft:healing, minecraft:awkward, minecraft:long_night_vision, minecraft:regeneration, minecraft:long_regeneration, minecraft:slowness, minecraft:long_slow_falling, minecraft:strong_leaping, minecraft:long_strength, minecraft:harming, minecraft:long_water_breathing, minecraft:fire_resistance, minecraft:weakness, minecraft:long_swiftness, minecraft:invisibility
+[16:06:28] [Render thread/INFO]: Registering recipes: immersiveengineering:main took 36.70 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:debug took 9.200 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:gui took 2.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:forge_gui took 1.200 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering recipes: curios:curios took 900.0 ns
+[16:06:28] [Render thread/INFO]: Registering recipes: nuclearcraft:jei_plugin ...
+[16:06:28] [Render thread/ERROR]: Caught an error from mod plugin: class igentuman.nc.compat.jei.JEIPlugin nuclearcraft:jei_plugin
+java.lang.NoClassDefFoundError: mekanism/api/chemical/ChemicalStack
+	at igentuman.nc.compat.jei.JEIPlugin.registerRecipes(JEIPlugin.java:116) ~[NuclearCraft-1.19.2-1.0.5.jar%23208!/:1.0.5]
+	at mezz.jei.library.load.PluginLoader.lambda$createRecipeManager$10(PluginLoader.java:143) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at mezz.jei.library.load.PluginLoader.createRecipeManager(PluginLoader.java:143) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:130) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.19.2-forge-11.8.1.1034.jar%23202!/:11.8.1.1034]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2385!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2385!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2385!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2385!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1321) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1072) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.4.0.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: mekanism.api.chemical.ChemicalStack
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 36 more
+[16:06:28] [Render thread/INFO]: Registering recipes: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipes: mm:jei_plugin took 3.285 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering recipes: compactmachines:main took 6.747 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering 17 saplings
+[16:06:28] [Render thread/INFO]: Registering recipes: bonsaitrees3:jei took 4.919 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering recipes: scavenge:core took 35.80 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipes: kubejs:jei took 3.600 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipes: ftblibrary:jei took 1.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipes: custommachinery:jei_plugin took 8.595 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering recipes: cofh_core:default took 3.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering recipes: thermal:core took 359.6 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering recipes: thermal:expansion took 12.46 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Crook Recipes Loaded: 3
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Sieve Recipes Loaded: 112
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Hammer Recipes Loaded: 25
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Fluid On Top Recipes Loaded: 2
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Fluid Transform Recipes Loaded: 2
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Fluid Item Recipes Loaded: 15
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Compost Recipes Loaded: 57
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Fired Crucible Recipes Loaded: 30
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Wooden Crucible Recipes Loaded: 2
+[16:06:28] [Render thread/INFO]: [Ex Nihilo: Sequentia]: Heat Recipes Loaded: 13
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:exnihilosequentia took 33.43 ms
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering recipes: jei:internal took 2.900 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 1.690 ms
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: immersiveengineering:main took 366.7 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 2.700 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 1.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: mm:jei_plugin took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: compactmachines:main took 1.400 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: bonsaitrees3:jei took 1.100 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: scavenge:core took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: kubejs:jei took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: ftblibrary:jei took 1.200 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: custommachinery:jei_plugin took 900.0 ns
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: cofh_core:default took 900.0 ns
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: thermal:core took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: thermal:expansion took 3.300 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:exnihilosequentia took 2.000 ?s
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 1.600 ?s
+[16:06:28] [Render thread/INFO]: Building runtime...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 1.123 ms
+[16:06:28] [Render thread/INFO]: Registering gui handlers: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: immersiveengineering:main took 470.6 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:debug took 6.700 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:gui took 4.403 ms
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:forge_gui took 2.900 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: curios:curios ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: curios:curios took 374.5 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: mm:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: mm:jei_plugin took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: compactmachines:main ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: compactmachines:main took 1.400 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: bonsaitrees3:jei ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: bonsaitrees3:jei took 463.3 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: scavenge:core ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: scavenge:core took 2.500 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: kubejs:jei ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: kubejs:jei took 1.700 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: ftblibrary:jei took 17.90 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: custommachinery:jei_plugin ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: custommachinery:jei_plugin took 757.1 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: cofh_core:default ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: cofh_core:default took 451.8 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: thermal:core ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: thermal:core took 19.00 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: thermal:expansion ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: thermal:expansion took 53.90 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:exnihilosequentia ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:exnihilosequentia took 2.600 ?s
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[16:06:28] [Render thread/INFO]: Registering gui handlers: jei:internal took 1.900 ?s
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:minecraft took 8.000 ?s
+[16:06:28] [Render thread/INFO]: Registering Runtime: immersiveengineering:main ...
+[16:06:28] [Render thread/INFO]: Registering Runtime: immersiveengineering:main took 1.500 ?s
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:debug took 1.200 ?s
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:gui took 1.000 ?s
+[16:06:28] [Render thread/INFO]: Registering Runtime: jei:forge_gui ...
+[16:06:28] [Render thread/INFO]: Starting JEI GUI
+[16:06:28] [Render thread/INFO]: Building ingredient list...
+[16:06:28] [Render thread/INFO]: Building ingredient list took 20.87 ms
+[16:06:28] [Render thread/INFO]: Building ingredient filter...
+[16:06:28] [Render thread/INFO]: Adding 4655 ingredients
+[16:06:29] [Render thread/INFO]: Added 4655 ingredients
+[16:06:29] [Render thread/INFO]: Building ingredient filter took 247.8 ms
+[16:06:29] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 342.7 ms
+[16:06:29] [Render thread/INFO]: Registering Runtime: curios:curios ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: curios:curios took 2.500 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: mm:jei_plugin ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: mm:jei_plugin took 1.300 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: compactmachines:main ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: compactmachines:main took 1.100 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: bonsaitrees3:jei ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: bonsaitrees3:jei took 900.0 ns
+[16:06:29] [Render thread/INFO]: Registering Runtime: scavenge:core ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: scavenge:core took 900.0 ns
+[16:06:29] [Render thread/INFO]: Registering Runtime: kubejs:jei ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: kubejs:jei took 1.600 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: ftblibrary:jei ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: ftblibrary:jei took 900.0 ns
+[16:06:29] [Render thread/INFO]: Registering Runtime: custommachinery:jei_plugin ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: custommachinery:jei_plugin took 900.0 ns
+[16:06:29] [Render thread/INFO]: Registering Runtime: cofh_core:default ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: cofh_core:default took 3.000 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: thermal:core ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: thermal:core took 1.500 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: thermal:expansion ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: thermal:expansion took 1.100 ?s
+[16:06:29] [Render thread/INFO]: Registering Runtime: jei:exnihilosequentia ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: jei:exnihilosequentia took 800.0 ns
+[16:06:29] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[16:06:29] [Render thread/INFO]: Registering Runtime: jei:internal took 900.0 ns
+[16:06:29] [Render thread/INFO]: Building runtime took 356.9 ms
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:minecraft took 7.700 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: immersiveengineering:main ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: immersiveengineering:main took 1.500 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:debug took 3.500 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:gui took 1.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:forge_gui ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:forge_gui took 1.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: curios:curios ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: curios:curios took 1.100 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: mm:jei_plugin ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: mm:jei_plugin took 1.300 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: compactmachines:main ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: compactmachines:main took 1.100 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: bonsaitrees3:jei ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: bonsaitrees3:jei took 1.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: scavenge:core ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: scavenge:core took 900.0 ns
+[16:06:29] [Render thread/INFO]: Sending Runtime: kubejs:jei ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: kubejs:jei took 15.90 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: ftblibrary:jei ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: ftblibrary:jei took 2.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: custommachinery:jei_plugin ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: custommachinery:jei_plugin took 1.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: cofh_core:default ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: cofh_core:default took 900.0 ns
+[16:06:29] [Render thread/INFO]: Sending Runtime: thermal:core ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: thermal:core took 1.000 ?s
+[16:06:29] [Render thread/INFO]: Sending Runtime: thermal:expansion ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: thermal:expansion took 900.0 ns
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:exnihilosequentia ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:exnihilosequentia took 800.0 ns
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[16:06:29] [Render thread/INFO]: Sending Runtime: jei:internal took 1.400 ?s
+[16:06:29] [Render thread/INFO]: Starting JEI took 767.6 ms
+[16:06:29] [Render thread/INFO]: Loaded 0 advancements
+[16:06:53] [Server thread/INFO]: Saving and pausing game...
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/compactmachines:compact_world
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/bonsaitrees3:growtown
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16:06:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/nuclearcraft:wasteland
+[16:06:54] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[16:06:54] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[16:06:54] [Render thread/INFO]: Stopping JEI
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 10.00 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: immersiveengineering:main ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: immersiveengineering:main took 2.600 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 1.800 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 1.700 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui ...
+[16:06:54] [Render thread/INFO]: Stopping JEI GUI
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui took 1.573 ms
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: curios:curios ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: curios:curios took 3.300 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: mm:jei_plugin ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: mm:jei_plugin took 1.700 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: compactmachines:main ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: compactmachines:main took 1.800 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: bonsaitrees3:jei ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: bonsaitrees3:jei took 1.400 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: scavenge:core ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: scavenge:core took 1.100 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: kubejs:jei ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: kubejs:jei took 1.200 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: ftblibrary:jei ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: ftblibrary:jei took 2.800 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: custommachinery:jei_plugin ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: custommachinery:jei_plugin took 2.200 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: cofh_core:default ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: cofh_core:default took 1.800 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: thermal:core ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: thermal:core took 1.100 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: thermal:expansion ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: thermal:expansion took 8.900 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:exnihilosequentia ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:exnihilosequentia took 1.600 ?s
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[16:06:54] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 1.500 ?s
+[16:06:54] [Server thread/INFO]: TYR_dev lost connection: Disconnected
+[16:06:54] [Server thread/INFO]: TYR_dev left the game
+[16:06:54] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:06:54] [Server thread/INFO]: Stopping server
+[16:06:54] [Server thread/INFO]: Saving players
+[16:06:54] [Server thread/INFO]: Saving worlds
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/compactmachines:compact_world
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/bonsaitrees3:growtown
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16:06:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/nuclearcraft:wasteland
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (2)): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (growtown): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (wasteland): All chunks are saved
+[16:06:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:06:56] [Render thread/INFO]: Stopping!

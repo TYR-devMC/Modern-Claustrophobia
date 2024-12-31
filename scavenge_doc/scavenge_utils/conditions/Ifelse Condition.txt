@@ -1,0 +1,28 @@
+{
+	"property": "scavenge_utils:ifelse_condition",
+	"test": {},
+	"true": {},
+	"false": {},
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_utils.ifelse_condition.desc",
+	"jei_simple": true
+}
+
+"scavenge_utils:ifelse_condition"
+Allows to decide which condition is tested
+
+"test": The Deciding Condition
+"true": The Condition that is tested for if the Deciding Condition is true
+"false": The Condition that is tested for if the Deciding Condition is false
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_utils.ifelse_condition.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

@@ -1,0 +1,20 @@
+{
+	"property": "scavenge_player:damage_item",
+	"amount": 1,
+	"chance": 100.0,
+	"jei_visible": false,
+	"jei_description": "scavenge_player.damage_item.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:damage_item"
+Damages the held item with the desired amount
+
+"amount": The amount that should be Consumed
+"chance": How likely that it is being Damaged (Optional, Default: 100.0)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.damage_item.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[scavenge_player:consume_item]

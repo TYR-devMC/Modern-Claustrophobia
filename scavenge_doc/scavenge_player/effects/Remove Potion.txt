@@ -1,0 +1,25 @@
+{
+	"property": "scavenge_player:remove_potion",
+	"effects": [
+		{
+			"effect": "minecraft:luck"
+		}
+	],
+	"chance": 100.0,
+	"jei_visible": false,
+	"jei_description": "scavenge_player.remove_potion.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:remove_potion"
+Removes the Desired Potion Effect
+
+"effects": Effects that should be removed
+		"effect": Effect that should be removed
+"chance": Chance of removing the Effect (Optional, Default: 100.0)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.remove_potion.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

@@ -1,0 +1,41 @@
+{
+	"property": "scavenge_world:spawn_particles",
+	"particle": "minecraft:enchant",
+	"data": "",
+	"posX": 0.0,
+	"posY": 0.0,
+	"posZ": 0.0,
+	"deltaX": 0.0,
+	"deltaY": 0.0,
+	"deltaZ": 0.0,
+	"speed": 1.0,
+	"count": {
+		"operation": "scavenge:add",
+		"value": 1
+	},
+	"jei_visible": false,
+	"jei_description": "scavenge_world.spawn_particles.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:spawn_particles"
+Spawns Particles
+
+"particle": The Particle Type that should be spawned
+"data": The Particle Specific Data that can be given through a command (Optional, Default: )
+"posX": The X Offset for the particle (Optional, Default: 0.0)
+"posY": The Y Offset for the particle (Optional, Default: 0.0)
+"posZ": The Z Offset for the particle (Optional, Default: 0.0)
+"deltaX": The Delta X for the particle (Optional, Default: 0.0)
+"deltaY": The Delta Y for the particle (Optional, Default: 0.0)
+"deltaZ": The Delta Z for the particle (Optional, Default: 0.0)
+"speed": The Speed of the particle (Optional, Default: 1.0)
+"count": The Amount of Particles being Spawned
+	"operation": The Operation that should be executed
+	"value": Value that should be added
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.spawn_particles.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

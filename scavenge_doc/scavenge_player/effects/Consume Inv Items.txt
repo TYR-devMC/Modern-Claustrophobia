@@ -1,0 +1,27 @@
+{
+	"property": "scavenge_player:consume_inv_items",
+	"items": [
+		{
+			"item": "minecraft:diamond",
+			"nbt": null,
+			"count": 1
+		}
+	],
+	"jei_visible": false,
+	"jei_description": "scavenge_player.consume_inv_items.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:consume_inv_items"
+Clears the desired amount of items out of the inventory
+
+"items": Items that should be consumed
+		"item": Item that should be used
+		"nbt": NBT data in the item (Optional, Default: null)
+		"count": Amount of items (Optional, Default: 1)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.consume_inv_items.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

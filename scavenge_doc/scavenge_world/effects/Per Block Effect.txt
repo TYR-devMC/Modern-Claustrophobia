@@ -1,0 +1,43 @@
+{
+	"property": "scavenge_world:per_block_effect",
+	"id": "exampleId",
+	"min": 0,
+	"max": 0,
+	"replacement": {
+		"properties": [
+			{
+				"property": "snowy",
+				"value": "true"
+			}
+		],
+		"block": "minecraft:diamond_block"
+	},
+	"change": {
+		"operation": "scavenge:add",
+		"value": 1
+	},
+	"jei_visible": false,
+	"jei_description": "scavenge_world.per_block_effect.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:per_block_effect"
+Allows to Limit Actions of a Block to a certain amount
+
+"id": Id the Action Limit is stored in
+"min": Minimum Range of the Action Limit
+"max": Maximum Range of the Action Limit
+"replacement": The Replacement block (Optional, Default: {})
+	"properties": The Properties that should be applied on the block (Optional, Default: [])
+			"property": Property that should be set
+			"value": The Value
+	"block": The Block that should be used
+"change": Incrementer of the Actions
+	"operation": The Operation that should be executed
+	"value": Value that should be added
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.per_block_effect.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[scavenge_player:per_player, scavenge_world:per_chunk_effect, scavenge_world:per_block_effect]

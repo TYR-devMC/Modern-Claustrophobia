@@ -1,0 +1,7 @@
+{
+	"processors": "scavenge_world:jigsaw"
+}
+
+"scavenge_world:jigsaw"
+Replaces Jigsaw Blocks with their desired results
+

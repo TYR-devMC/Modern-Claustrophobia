@@ -1,0 +1,22 @@
+{
+	"property": "scavenge_utils:conditional_effect",
+	"test": {},
+	"true": {},
+	"false": {},
+	"jei_visible": false,
+	"jei_description": "scavenge_utils.conditional_effect.desc",
+	"jei_simple": true
+}
+
+"scavenge_utils:conditional_effect"
+Allows to decide which condition is tested
+
+"test": The Deciding Condition
+"true": The Effect that is applied if the Deciding Condition is true
+"false": The Effect that is applied if the Deciding Condition is false
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_utils.conditional_effect.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

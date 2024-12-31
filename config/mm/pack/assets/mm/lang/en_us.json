@@ -1,0 +1,8 @@
+{
+  "block.mm.machine_controller": "Machine Conrtoller",
+  "block.mm.tiny_energy_input": "Tiny Energy Port Input",
+  "block.mm.tiny_energy_output": "Tiny Energy Port Output",
+  "block.mm.tiny_item_input": "Tiny Item Port Input",
+  "block.mm.tiny_item_output": "Tiny Item Port Output",
+  "item.mm.blueprint": "Blueprint"
+}

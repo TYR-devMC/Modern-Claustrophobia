@@ -1,0 +1,29 @@
+{
+	"property": "scavenge_tile:consume_items",
+	"override": "Default",
+	"items": [
+		{
+			"item": "minecraft:diamond",
+			"nbt": null,
+			"count": 1
+		}
+	],
+	"jei_visible": false,
+	"jei_description": "scavenge_tile.consume_items.desc",
+	"jei_simple": true
+}
+
+"scavenge_tile:consume_items"
+Consumes the Items of a TileEntity
+
+"override": Overrides the Side the block was clicked on to make sure that the desired effect was happening (Valid Values: [down, up, north, south, west, east])
+"items": Items that should be consumed, can be inlined
+		"item": Item that should be used
+		"nbt": NBT data in the item (Optional, Default: null)
+		"count": Amount of items (Optional, Default: 1)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_tile.consume_items.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

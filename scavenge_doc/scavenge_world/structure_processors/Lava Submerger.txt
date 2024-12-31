@@ -1,0 +1,7 @@
+{
+	"processors": "scavenge_world:lava_submerger"
+}
+
+"scavenge_world:lava_submerger"
+Submerges the Structure in Lava
+

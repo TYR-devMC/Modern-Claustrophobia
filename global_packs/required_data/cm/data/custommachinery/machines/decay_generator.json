@@ -1,0 +1,77 @@
+{
+  "name": "Decay Harnester",
+  "appearance": {
+    "block": "minecraft:dirt",
+    "running": {
+      "light": 15
+    }
+  },
+  "components": [
+    {
+      "capacity": 100000,
+      "type": "custommachinery:energy"
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "slot1",
+      "mode": "input"
+    },
+    {
+      "type": "custommachinery:item",
+      "id": "slot2",
+      "mode": "output"
+    }
+  ],
+  "gui": [
+    {
+      "texture": "custommachinery:textures/gui/base_background.png",
+      "x": 0,
+      "y": 0,
+      "priority": 1000,
+      "type": "custommachinery:texture"
+    },
+    {
+      "type": "custommachinery:slot",
+      "x": 60,
+      "y": 40,
+      "id": "slot1"
+    },
+    {
+      "type": "custommachinery:slot",
+      "x": 100,
+      "y": 40,
+      "id": "slot2"
+    },
+
+    {
+      "x": 47,
+      "y": 80,
+      "type": "custommachinery:player_inventory"
+    },
+    {
+      "x": 146,
+      "y": 30,
+      "texture_empty": "kubejs:textures/gui/energy_empty.png",
+      "texture_filled": "kubejs:textures/gui/energy_filled.png",
+      "type": "custommachinery:energy"
+    },
+    {
+      "x": 80,
+      "y": 40,
+      "type": "custommachinery:progress",
+      "texture_empty": "kubejs:textures/gui/fire_empty.png",
+      "texture_filled": "kubejs:textures/gui/green_fire.png"
+    },
+    {
+      "x": 236,
+      "y": 5,
+      "type": "custommachinery:status"
+    },
+    {
+      "text": "Decay Harnester",
+      "x": 7,
+      "y": 5,
+      "type": "custommachinery:text"
+    }
+  ]
+}

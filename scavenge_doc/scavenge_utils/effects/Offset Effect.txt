@@ -1,0 +1,26 @@
+{
+	"property": "scavenge_utils:offset_effect",
+	"effects": [
+		{
+			"positions": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			]
+		}
+	]
+}
+
+"scavenge_utils:offset_effect"
+Tests if conditions around the Source Block Match
+
+"effects": The Effects that should be applied
+		"positions": null
+				"x": X Offset relative to the source Block
+				"y": Y Offset relative to the source Block
+				"z": Z Offset relative to the source Block
+
+Incompats:
+[None]

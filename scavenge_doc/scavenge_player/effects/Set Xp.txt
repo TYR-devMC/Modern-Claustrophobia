@@ -1,0 +1,20 @@
+{
+	"property": "scavenge_player:set_xp",
+	"xp": 0,
+	"level": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_player.set_xp.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:set_xp"
+Sets the Experience to the desired amount
+
+"xp": XP it should be set to
+"level": If it should be XP or XP Levels
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.set_xp.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

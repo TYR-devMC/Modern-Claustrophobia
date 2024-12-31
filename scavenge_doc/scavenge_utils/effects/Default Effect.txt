@@ -1,0 +1,11 @@
+{
+	"property": "scavenge_utils:default_effect"
+}
+
+"scavenge_utils:default_effect"
+Does nothing
+
+
+
+Incompats:
+[None]

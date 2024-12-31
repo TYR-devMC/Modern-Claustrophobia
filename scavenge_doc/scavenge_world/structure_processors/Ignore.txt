@@ -1,0 +1,12 @@
+{
+	"processors": "scavenge_world:ignore",
+	"blocks": [
+		"minecraft:air"
+	]
+}
+
+"scavenge_world:ignore"
+Filters out Selected Blocks
+
+"blocks": Blocks that should be filtered
+	"block": The Block id that should be filtered

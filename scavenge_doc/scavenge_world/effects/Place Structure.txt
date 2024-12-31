@@ -1,0 +1,40 @@
+{
+	"property": "scavenge_world:place_structure",
+	"settings": {
+		"mirror": "NONE",
+		"rotation": "NONE",
+		"x": 0,
+		"y": 0,
+		"z": 0,
+		"ignoreEntities": true,
+		"modifiers": [
+			{
+				"processor": "scavenge_world:integrity",
+				"chance": 1.0
+			}
+		]
+	},
+	"id": "minecraft:end_city/ship",
+	"seed": 0,
+	"update": false
+}
+
+"scavenge_world:place_structure"
+Places a Minecraft Structure in the World
+
+"settings": Structure Spawn Settings (Optional, Default: {})
+	"mirror": Mirrors the Structure (Optional, Default: NONE) (Valid Values: [NONE, LEFT_RIGHT, FRONT_BACK])
+	"rotation": Rotates the Structure (Optional, Default: NONE) (Valid Values: [NONE, CLOCKWISE_90, CLOCKWISE_180, COUNTERCLOCKWISE_90])
+	"x": Relative X Pivot of the Structure (used for rotation) (Optional, Default: 0)
+	"y": Relative Y Pivot of the Structure (used for rotation) (Optional, Default: 0)
+	"z": Relative Z Pivot of the Structure (used for rotation) (Optional, Default: 0)
+	"ignoreEntities": If entities should be spawned or not (Optional, Default: true)
+	"modifiers": Structure Processors that should be applied (Optional, Default: [])
+			"processor": The Registry id of the Processor
+			"chance": How likely it is that blocks start missing
+"id": The Structure that should be placed
+"seed": The Seed of the Structure Placer (0 => Activation time) (Optional, Default: 0)
+"update": If Block Updates should be thrown (Optional, Default: false)
+
+Incompats:
+[None]

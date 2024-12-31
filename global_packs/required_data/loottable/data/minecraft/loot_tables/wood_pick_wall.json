@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "exnihilosequentia:stone_pebble",
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "exnihilosequentia:andesite_pebble",
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "exnihilosequentia:diorite_pebble",
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "exnihilosequentia:granite_pebble",
+          "functions": [],
+          "conditions": []
+        }
+      ],
+      "functions": []
+    }
+  ]
+}

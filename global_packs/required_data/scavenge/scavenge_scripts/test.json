@@ -1,0 +1,53 @@
+{
+    "scripts": {
+        "id": "test:pebble",
+        "swing": true,
+        "drop_rule": "block",
+        "properties": [
+            {
+                "property": "scavenge_player:is_hand_empty"
+            },
+            {
+                "property": "scavenge_player:is_hand"
+            },
+            {
+                "property": "scavenge_utils:conditional_effect",
+                "test": {
+                    "property": "scavenge_player:real_player"
+                },
+                "true": {
+                    "property": "scavenge_player:add_exhaustion",
+                    "exhaustion": 0.1
+                },
+                "false": {
+                    "property": "scavenge_utils:default_effect"
+                }
+            }
+        ],
+        "loot": [
+            {
+                "lootPool": "minecraft:pebble",
+                "conditions": [
+                    {
+                        "property": "scavenge_utils:random",
+                        "chance": 85.0
+                    }
+                ]
+            }
+        ],
+        "type": {
+            "type": "right_click",
+            "consume": true,
+            "show": true
+        },
+        "targets": [
+            {
+                "type": "blocks",
+                "id": [
+                    "minecraft:grass_block",
+                    "minecraft:dirt"
+                ]
+            }
+        ]
+    }
+}

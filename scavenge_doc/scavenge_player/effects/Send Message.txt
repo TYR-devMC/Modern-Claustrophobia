@@ -1,0 +1,22 @@
+{
+	"property": "scavenge_player:send_message",
+	"chat": false,
+	"message": null,
+	"simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_player.send_message.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:send_message"
+Sends a Message to the player
+
+"chat": If the Message should be added to the Chat or the Toolbar (Optional, Default: false)
+"message": Message that should be displayed
+"simple": If the message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.send_message.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

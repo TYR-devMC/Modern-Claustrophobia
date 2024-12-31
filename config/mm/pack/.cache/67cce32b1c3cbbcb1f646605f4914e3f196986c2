@@ -1,0 +1,6 @@
+// 1.19.2	2024-12-30T14:14:23.1946959	LootTables
+9788a263718f7e77c52a6e552a078c90176c26b6 data/mm/loot_tables/blocks/machine_controller.json
+a2e9736a14e5292d45bda9660088fc685e9a3c0a data/mm/loot_tables/blocks/tiny_energy_input.json
+75df9ef28e3b08dee8861eb2c55cd8d4f24db926 data/mm/loot_tables/blocks/tiny_energy_output.json
+8c675e632ecb50d5f228908fadd84b9b41dd9c9c data/mm/loot_tables/blocks/tiny_item_input.json
+e9ba7f4743822ab5ad04b4aecfa783ff06d7ea42 data/mm/loot_tables/blocks/tiny_item_output.json

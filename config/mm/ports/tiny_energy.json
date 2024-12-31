@@ -1,0 +1,11 @@
+{
+  "id": "tiny_energy",
+  "controllerIds": "mm:machine_controller",
+  "name": "Tiny Energy Port",
+  "type": "mm:energy",
+  "config": {
+    "capacity": 30000,
+    "maxReceive": 150,
+    "maxExtract": 150
+  }
+}

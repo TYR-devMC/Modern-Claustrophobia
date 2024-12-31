@@ -1,0 +1,41 @@
+{
+  "name": "Tiny Compressor",
+  "controllerIds": "mm:machine_controller",
+  "layout": [
+    [
+      "SS",
+      "1S"
+    ],
+    [
+      "BP",
+      "2O"
+    ],
+    [
+      "OB",
+      "C3"
+    ]
+  ],
+  "key": {
+    "S": {
+      "block": "minecraft:stone_brick_slab"
+    },
+    "B": {
+      "block": "minecraft:bricks"
+    },
+    "P": {
+      "block": "minecraft:glass_pane"
+    },
+    "O": {
+      "block": "immersiveengineering:coil_lv"
+    },
+    "1": {
+      "block": "mm:tiny_item_input"
+    },
+    "2": {
+      "block": "mm:tiny_item_output"
+    },
+    "3": {
+      "block": "mm:tiny_energy_input"
+    }
+  }
+}

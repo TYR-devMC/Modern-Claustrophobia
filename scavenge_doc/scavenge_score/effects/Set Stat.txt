@@ -1,0 +1,25 @@
+{
+	"property": "scavenge_score:set_stat",
+	"stat": "minecraft:animals_bred",
+	"operation": {
+		"operation": "scavenge:add",
+		"value": 1
+	},
+	"jei_visible": false,
+	"jei_description": "scavenge_score.set_stat.desc",
+	"jei_simple": true
+}
+
+"scavenge_score:set_stat"
+Tests if a Stat has the desired amount
+
+"stat": The Stat that should be tracked
+"operation": Converts the stat into the desired value
+	"operation": The Operation that should be executed
+	"value": Value that should be added
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_score.set_stat.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

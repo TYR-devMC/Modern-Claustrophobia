@@ -1,0 +1,20 @@
+{
+	"property": "scavenge_player:add_xp",
+	"xp": 0,
+	"level": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_player.add_xp.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:add_xp"
+Adds a desired amount of XP to the player. Can als remove XP with negative values
+
+"xp": XP that should be added
+"level": If it should be XP or XP Levels (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.add_xp.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

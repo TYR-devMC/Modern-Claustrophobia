@@ -1,0 +1,25 @@
+[16:06:21.981][INFO]: Parsing all .json files in machines folder.
+[16:06:21.982][INFO]: Parsing all .json files in upgrades folder.
+[16:06:21.982][INFO]: Finished, 0 .json files successfully parsed in upgrades folder.
+[16:06:22.014][INFO]: Finished, 4 .json files successfully parsed in machines folder.
+[16:06:22.527][INFO]: Parsing recipe json: custommachinery:power_crusher/gravel
+[16:06:22.537][INFO]: Parsing recipe json: custommachinery:magic_spawner/zombie
+[16:06:22.540][INFO]: Successfully read recipe json: custommachinery:power_crusher/gravel
+[16:06:22.540][INFO]: Successfully read recipe json: custommachinery:magic_spawner/zombie
+[16:06:22.544][INFO]: Parsing recipe json: custommachinery:stone_generator/stone
+[16:06:22.544][INFO]: Successfully read recipe json: custommachinery:stone_generator/stone
+[16:06:23.036][INFO]: Reading Custom Machinery Machines...
+[16:06:23.037][INFO]: Parsing machine json: custommachinery:stone_generator in datapack: test
+[16:06:23.044][INFO]: Successfully parsed machine json: custommachinery:stone_generator
+[16:06:23.045][INFO]: Parsing machine json: custommachinery:power_crusher in datapack: test
+[16:06:23.046][INFO]: Successfully parsed machine json: custommachinery:power_crusher
+[16:06:23.046][INFO]: Parsing machine json: custommachinery:decay_generator in datapack: cm
+[16:06:23.047][INFO]: Successfully parsed machine json: custommachinery:decay_generator
+[16:06:23.047][INFO]: Parsing machine json: custommachinery:magic_spawner in datapack: test
+[16:06:23.047][INFO]: Successfully parsed machine json: custommachinery:magic_spawner
+[16:06:23.047][INFO]: Finished creating 4 custom machines.
+[16:06:23.047][INFO]: Reading Custom Machinery Upgrades json
+[16:06:23.048][INFO]: No machine upgrade json found.
+[16:06:23.048][INFO]: Collecting machine upgrades with kubeJS.
+[16:06:23.049][INFO]: No machine upgrades found with kubejs
+[16:06:23.049][INFO]: Finished creating custom machine upgrades.

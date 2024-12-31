@@ -1,0 +1,22 @@
+{
+	"property": "scavenge_world:spawn_explosion",
+	"mode": "break",
+	"flame": false,
+	"power": 4.0,
+	"jei_visible": false,
+	"jei_description": "scavenge_world.spawn_explosion.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:spawn_explosion"
+Spawns a Explosion
+
+"mode": The Type Of Explosion (Optional, Default: break) (Valid Values: [none, break, destroy])
+"flame": If the Explosion should spawn fire (Optional, Default: false)
+"power": The Power of the Explosion (Optional, Default: 4.0)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.spawn_explosion.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

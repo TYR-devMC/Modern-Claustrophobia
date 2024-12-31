@@ -1,0 +1,388 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_i"
+	group: "532AE6191715AEB6"
+	id: "3E898E0700B4CDCE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "compactmachines:personal_shrinking_device"
+			id: "14CBA4BF03EED30B"
+			rewards: [{
+				id: "66DC6A8740837D5A"
+				item: "compactmachines:personal_shrinking_device"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CDB0BC7AAFC2C5C"
+				title: "Check"
+				type: "checkmark"
+			}]
+			title: "The start"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14CBA4BF03EED30B"]
+			icon: "compactmachines:solid_wall"
+			id: "3DF61AA8EFAFE010"
+			rewards: [{
+				id: "28BC2F4C1E72872E"
+				item: "minecraft:apple"
+				type: "item"
+			}]
+			subtitle: "Use your fists to punch the walls of the machine"
+			tasks: [{
+				consume_items: false
+				count: 4L
+				id: "33226B654F141EC6"
+				item: "kubejs:dirt_dust"
+				type: "item"
+			}]
+			title: "Hitting the wall"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3DF61AA8EFAFE010"]
+			id: "36D0B0DBF3552D9C"
+			tasks: [{
+				id: "295E8A5025771EFE"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3DF61AA8EFAFE010"]
+			id: "48EB1F1DFCF0A8DE"
+			tasks: [{
+				id: "2D34EE523E884354"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36D0B0DBF3552D9C"]
+			id: "539A4233591C5DAD"
+			tasks: [{
+				id: "2EB7530B39AFE40A"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["48EB1F1DFCF0A8DE"]
+			id: "4FDC7C80A9C095F7"
+			tasks: [
+				{
+					id: "21C436C0AA814FE1"
+					item: "minecraft:wheat_seeds"
+					type: "item"
+				}
+				{
+					id: "2B0C3DBA443E7EB1"
+					item: "immersiveengineering:seed"
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["36D0B0DBF3552D9C"]
+			id: "38F8437199718463"
+			tasks: [{
+				id: "1CB0123E12CED352"
+				item: "bonsaitrees3:bonsaipot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4FDC7C80A9C095F7"
+				"38F8437199718463"
+				"48EB1F1DFCF0A8DE"
+			]
+			id: "67B4D0503B38BC2D"
+			tasks: [{
+				id: "2A682E831C01AFA7"
+				item: "minecraft:spruce_log"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6639CD22CF1CDCAA"]
+			id: "1F68ECCB2F55112C"
+			tasks: [{
+				id: "66436352FFAAD5BA"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["67B4D0503B38BC2D"]
+			id: "6639CD22CF1CDCAA"
+			tasks: [{
+				id: "282BDD9BA3926C49"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"6639CD22CF1CDCAA"
+				"1F68ECCB2F55112C"
+			]
+			id: "656612ECB5C1757B"
+			tasks: [{
+				id: "64442F399B867F25"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["656612ECB5C1757B"]
+			id: "602947FFAA2CCF4C"
+			tasks: [{
+				id: "46AC65F84B2BC117"
+				item: "exnihilosequentia:stone_pebble"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["656612ECB5C1757B"]
+			id: "3475FB4C08969BD7"
+			tasks: [{
+				id: "0500CF304369B73C"
+				item: "exnihilosequentia:andesite_pebble"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["656612ECB5C1757B"]
+			id: "3A3354BD8D800FD2"
+			tasks: [{
+				id: "5AB896581A478732"
+				item: "exnihilosequentia:diorite_pebble"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["656612ECB5C1757B"]
+			id: "1CA8BECDF7E0456A"
+			tasks: [{
+				id: "72505510A253042D"
+				item: "exnihilosequentia:granite_pebble"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 17.0d
+		}
+		{
+			dependencies: [
+				"602947FFAA2CCF4C"
+				"1F68ECCB2F55112C"
+			]
+			id: "526F072456453729"
+			tasks: [{
+				id: "67B81735ECD9D79D"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4FDC7C80A9C095F7"]
+			id: "092D5EDFAEE867F1"
+			tasks: [{
+				id: "4B22DCD7019005A7"
+				item: "immersiveengineering:hemp_fiber"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["092D5EDFAEE867F1"]
+			id: "16F41B6C412B1662"
+			tasks: [{
+				id: "7E1EDED0060A90EA"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"539A4233591C5DAD"
+				"3F67E76623AAC740"
+			]
+			id: "7F73EC1002CE672C"
+			tasks: [{
+				id: "0936C5497093AA68"
+				item: "exnihilosequentia:oak_sieve"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["16F41B6C412B1662"]
+			id: "3F67E76623AAC740"
+			tasks: [{
+				id: "58B3F5670D07F72F"
+				item: "exnihilosequentia:string_mesh"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7F73EC1002CE672C"]
+			id: "3D0592A54A9345D2"
+			tasks: [{
+				id: "02E0E40AD800166D"
+				item: "immersiveengineering:dust_sulfur"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["526F072456453729"]
+			id: "0713F3AE29AA2332"
+			tasks: [{
+				id: "479973171278CB5D"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["0713F3AE29AA2332"]
+			id: "47E356A9F0DE9A93"
+			tasks: [{
+				id: "27502A50931C080E"
+				item: {
+					Count: 1b
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["47E356A9F0DE9A93"]
+			id: "6C5876C27B1B1F57"
+			tasks: [{
+				id: "1B63C5E243393519"
+				item: "immersiveengineering:storage_uranium"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["539A4233591C5DAD"]
+			id: "413FDC66558290E9"
+			tasks: [{
+				id: "6957C04E20E35E96"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["413FDC66558290E9"]
+			id: "0A8BAEE2DE70A922"
+			tasks: [{
+				id: "4B4F7FB1E3683C0C"
+				item: "minecraft:glass_pane"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6639CD22CF1CDCAA"]
+			id: "71CED981F649731A"
+			tasks: [{
+				id: "5F5874368846774C"
+				item: "exnihilosequentia:oak_crucible"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"539A4233591C5DAD"
+				"71CED981F649731A"
+			]
+			id: "666517EC23788791"
+			tasks: [{
+				id: "1CC9BDEBA99BB112"
+				item: "minecraft:clay"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["666517EC23788791"]
+			id: "3C1A03D3F97DF588"
+			tasks: [{
+				id: "456D0274DD9BCB42"
+				item: "minecraft:brick"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+	]
+	title: "Chapter I"
+}

@@ -1,0 +1,20 @@
+{
+	"property": "scavenge_utils:add_data",
+	"id": "exampleId",
+	"data": "jsonData",
+	"jei_visible": false,
+	"jei_description": "scavenge_utils.add_data.desc",
+	"jei_simple": true
+}
+
+"scavenge_utils:add_data"
+Adds Data to the Script Executor. By default no use, but addons might use it for special Action control
+
+"id": id of the Data that should be added
+"data": The data that should be injected, JsonObject
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_utils.add_data.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

@@ -1,0 +1,9 @@
+{
+	"processors": "scavenge_world:integrity",
+	"chance": 1.0
+}
+
+"scavenge_world:integrity"
+Randomly removes Blocks from the Structure to create a demolished look
+
+"chance": How likely it is that blocks start missing

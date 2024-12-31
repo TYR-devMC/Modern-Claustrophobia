@@ -1,0 +1,35 @@
+{
+	"property": "scavenge_tile:has_items",
+	"items": [
+		{
+			"item": "minecraft:diamond",
+			"nbt": null,
+			"count": 1
+		}
+	],
+	"override": "Default",
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_tile.has_items.desc",
+	"jei_simple": true
+}
+
+"scavenge_tile:has_items"
+Tests if a Block has a desired Items
+
+"items": The Desired Items that are searched for
+		"item": Item that should be used
+		"nbt": NBT data in the item (Optional, Default: null)
+		"count": Amount of items (Optional, Default: 1)
+"override": Overrides the Side the block was clicked on to make sure that the desired effect was happening (Valid Values: [down, up, north, south, west, east])
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_tile.has_items.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

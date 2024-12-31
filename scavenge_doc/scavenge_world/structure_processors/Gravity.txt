@@ -1,0 +1,11 @@
+{
+	"processors": "scavenge_world:gravity",
+	"heightMap": "WORLD_SURFACE_WG",
+	"offset": 0
+}
+
+"scavenge_world:gravity"
+Moves the structure to the lowest ground
+
+"heightMap": the Height Map that should be referenced (Valid Values: [WORLD_SURFACE_WG, WORLD_SURFACE, OCEAN_FLOOR_WG, OCEAN_FLOOR, MOTION_BLOCKING, MOTION_BLOCKING_NO_LEAVES])
+"offset": The Offset that is applied on top of the current height (Optional, Default: 0)

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "mm:machine_controller",
+    "mm:tiny_energy_input",
+    "mm:tiny_energy_output",
+    "mm:tiny_item_input",
+    "mm:tiny_item_output"
+  ]
+}

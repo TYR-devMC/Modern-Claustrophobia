@@ -1,0 +1,31 @@
+{
+    "ticks": 300,
+    "structureId": "masterful:tiny_compressor",
+    "inputs": [
+      {
+        "type": "mm:input/consume",
+        "ingredient": {
+          "type": "mm:item",
+          "item": "kubejs:modularium_ingot",
+          "count": 4
+        }
+      },
+      {
+        "type": "mm:input/consume",
+        "ingredient": {
+            "type": "mm:energy",
+            "amount": 1200
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "type": "mm:output/simple",
+        "ingredient": {
+          "type": "mm:item",
+          "item": "compactmachines:wall",
+          "count": 4
+        }
+      }
+    ]
+}

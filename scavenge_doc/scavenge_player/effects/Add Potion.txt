@@ -1,0 +1,31 @@
+{
+	"property": "scavenge_player:add_potion",
+	"chance": 100.0,
+	"effects": [
+		{
+			"effect": "minecraft:luck",
+			"duration": 0,
+			"amplifier": 0,
+			"particles": true
+		}
+	],
+	"jei_visible": false,
+	"jei_description": "scavenge_player.add_potion.desc",
+	"jei_simple": true
+}
+
+"scavenge_player:add_potion"
+Applies effects on the Player
+
+"chance": Chance of applying the Effect (Optional, Default: 100.0)
+"effects": Effects that should be applied
+		"effect": The Effect that should be applied
+		"duration": Duration of the Effect
+		"amplifier": The Amplifier of the Effect (Optional, Default: 0)
+		"particles": If Particles should be visible (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_player.add_potion.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

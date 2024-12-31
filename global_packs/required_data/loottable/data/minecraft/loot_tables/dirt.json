@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_sapling"
+          
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_sapling"
+          
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_sapling"
+          
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wheat_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "immersiveengineering:seed"
+        }
+      ],
+      "functions": []
+    }
+  ],
+  "functions": []
+}

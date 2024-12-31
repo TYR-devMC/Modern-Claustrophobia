@@ -1,0 +1,12 @@
+[16:05:46] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[16:05:46] [INIT] Loaded plugins:
+[16:05:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:05:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:05:46] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[16:05:46] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[16:05:46] [INIT] - io.ticticboom.mods.mm.compat.kjs.MMKubeJSPlugin
+[16:05:46] [INIT] - com.probejs.ProbeJSPlugin
+[16:05:46] [INIT] - novamachina.exnihilosequentia.common.compat.kubejs.KubeJSExNihiloPlugin
+[16:05:47] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[16:05:47] [INFO] Loaded script startup_scripts:example.js in 0.053 s
+[16:05:47] [INFO] Loaded 1/1 KubeJS startup scripts in 0.284 s

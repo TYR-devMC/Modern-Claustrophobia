@@ -1,0 +1,49 @@
+{
+	"property": "scavenge_world:has_structure",
+	"blocks": [
+		{
+			"properties": [
+				{
+					"property": "snowy",
+					"value": "true"
+				}
+			],
+			"block": "minecraft:diamond_block",
+			"positions": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			]
+		}
+	],
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_world.has_structure.desc",
+	"jei_simple": true
+}
+
+"scavenge_world:has_structure"
+Tests if blocks around the Position match the build structure
+
+"blocks": The Blocks that should be checked for
+		"properties": The Properties that should be applied on the block (Optional, Default: [])
+				"property": Property that should be set
+				"value": The Value
+		"block": The Block that should be used
+		"positions": null
+				"x": X Offset relative to the source Block
+				"y": Y Offset relative to the source Block
+				"z": Z Offset relative to the source Block
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_world.has_structure.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

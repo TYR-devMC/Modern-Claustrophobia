@@ -1,0 +1,29 @@
+{
+	"property": "scavenge_tile:modify_fluids",
+	"override": "Default",
+	"consume": true,
+	"fluid": {
+		"fluid": "minecraft:water",
+		"amount": 0,
+		"nbt": ""
+	},
+	"jei_visible": false,
+	"jei_description": "scavenge_tile.modify_fluids.desc",
+	"jei_simple": true
+}
+
+"scavenge_tile:modify_fluids"
+Modifies the Fluid of a TileEntity
+
+"override": Overrides the Side the block was clicked on to make sure that the desired effect was happening (Valid Values: [down, up, north, south, west, east])
+"consume": If the Fluid should be consumed or inserted (Optional, Default: true)
+"fluid": The Fluid that should be inserted or extracted. This object can be inlined
+	"fluid": The Desired Fluid
+	"amount": The Amount of the Desired Fluid
+	"nbt": The NBTData of the Fluid (Optional, Default: )
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_tile.modify_fluids.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]

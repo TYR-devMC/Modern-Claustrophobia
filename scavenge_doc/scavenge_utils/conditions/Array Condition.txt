@@ -1,0 +1,26 @@
+{
+	"property": "scavenge_utils:array_condition",
+	"conditions": [],
+	"or": false,
+	"inverted": false,
+	"error_message": null,
+	"error_simple": true,
+	"jei_visible": false,
+	"jei_description": "scavenge_utils.array_condition.desc",
+	"jei_simple": true
+}
+
+"scavenge_utils:array_condition"
+Tests Multiple Conditions to achieve the desired result
+
+"conditions": The Conditions that should be tested for. Can be object or array
+"or": If the Condition should be treated like a and/or (Optional, Default: false)
+"inverted": If the result should be Inverted (Optional, Default: false)
+"error_message": Error Message that should be displayed (Optional, Default: null)
+"error_simple": If the error_message should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+"jei_visible": If the JEI description should be shown (Optional, Default: false)
+"jei_description": JEI Description that should be displayed (Optional, Default: scavenge_utils.array_condition.desc)
+"jei_simple": If the jei_description should be treated as a Simple String or a full ITextComponent JsonObject (Optional, Default: true)
+
+Incompats:
+[None]
